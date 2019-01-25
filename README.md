@@ -1,2 +1,2 @@
 # mcc-pc-tools
-PC Tools (Linux) for the Model Car Control Project
+PC Tools for the Model Car Control Project
